@@ -1,0 +1,2 @@
+# AltiumLibs
+Altium Footprint Library
